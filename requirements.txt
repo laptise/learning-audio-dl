@@ -1,0 +1,9 @@
+pydub
+urltitle
+yt-dlp
+# savify
+# --use-pep517 git+https://github.com/stschake/savify@feature/use-yt-dl
+pandas
+scikit-learn
+librosa
+matplotlib
